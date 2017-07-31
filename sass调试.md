@@ -17,3 +17,5 @@ Sass 调试一直以来都是一件头痛的事情，使用 Sass 的同学都希
 	  write style.css.map
 
 这时你就可以像前面展示的 gif 图一样，调试你的 Sass 代码。
+
+<a href="http://www.imooc.com">资源来源：慕课网</a>
