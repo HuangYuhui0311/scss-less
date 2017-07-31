@@ -132,3 +132,5 @@ Sass 提供了一种嵌套显示 CSS 文件的方式。例如
 压缩输出方式会去掉标准的 Sass 和 CSS 注释及空格。也就是压缩好的 CSS 代码样式风格：
 
 	nav ul{margin:0;padding:0;list-style:none}nav li{display:inline-block}nav a{display:block;padding:6px 12px;text-decoration:none}
+	
+<a href="http://www.imooc.com">资源来源：慕课网</a>
