@@ -74,3 +74,5 @@
 
 ## 卸载（删除）Sass ##
 	gem uninstall sass
+	
+<a href="http://www.imooc.com">资源来源：慕课网</a>
